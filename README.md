@@ -2,7 +2,7 @@
 
 Formative Assignment: Advanced Linear Algebra (PCA). PCA is implemented with ** NumPy only** (Matplotlib for plots). No scikit-learn.
 
-**Notebook:** [`PCA_Africa_CO2_Final.ipynb`](PCA_Africa_CO2_G37.ipynb)
+**Notebook:** [`PCA_Africa_CO2_G37.ipynb`](PCA_Africa_CO2_G37.ipynb)
 **Data:** [`data/co2_Emission_Africa.csv`](data/co2_Emission_Africa.csv)
 
 ## Dataset
