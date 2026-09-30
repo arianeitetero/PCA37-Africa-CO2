@@ -1,6 +1,6 @@
 # PCA from Scratch on African CO2 Emissions
 
-Formative Assignment: Advanced Linear Algebra (PCA). PCA is implemented with **numpy only** (matplotlib for plots). No scikit-learn.
+Formative Assignment: Advanced Linear Algebra (PCA). PCA is implemented with ** NumPy only** (Matplotlib for plots). No scikit-learn.
 
 **Notebook:** [`PCA_Africa_CO2_Final.ipynb`](PCA_Africa_CO2_Final.ipynb)
 **Data:** [`data/co2_Emission_Africa.csv`](data/co2_Emission_Africa.csv)
@@ -41,8 +41,7 @@ Run it from the repo root so `data/co2_Emission_Africa.csv` is found. The notebo
 ├── data/
 │   └── co2_Emission_Africa.csv
 └── docs/
-    ├── task_sheet.pdf                 <- group contribution sheet (official)
-    └── contribution_summary_Ariane_Itetero.pdf
+    ├── task_sheet.pdf            
 ```
 
 ## Team
@@ -50,4 +49,3 @@ Run it from the repo root so `data/co2_Emission_Africa.csv` is found. The notebo
 |---|---|
 | Olga Ikirezi | PCA / math (Tasks 1-2) |
 | Ariane Itetero | Task 3 (optimization, benchmarking), project packaging |
-| _add other members_ | _add_ |
