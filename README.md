@@ -34,14 +34,15 @@ jupyter notebook PCA_Africa_CO2_Final.ipynb
 Run it from the repo root so `data/co2_Emission_Africa.csv` is found. The notebook also accepts the CSV placed next to it.
 
 ## Repository contents
-```
-.
-├── PCA_Africa_CO2_Final.ipynb
+```.
 ├── README.md
 ├── data/
 │   └── co2_Emission_Africa.csv
-└── docs/
-    ├── task_sheet.pdf            
+├── docs/
+│   ├── PCA37_PCA_Final.pdf
+│   └── _BSE Group Assignments _ Task Sheet.pdf
+└── notebook/
+    └── PCA_Africa_CO2_G37.ipynb       
 ```
 
 ## Team
