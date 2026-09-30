@@ -2,8 +2,8 @@
 
 Formative Assignment: Advanced Linear Algebra (PCA). PCA is implemented with ** NumPy only** (Matplotlib for plots). No scikit-learn.
 
-**Notebook:** [`notebook/PCA_Africa_CO2_G37.ipynb`](PCA_Africa_CO2_G37.ipynb)
-**Data:** [`data/co2_Emission_Africa.csv`](data/co2_Emission_Africa.csv)
+   Notebook: [notebook/PCA_Africa_CO2_G37.ipynb](notebook/PCA_Africa_CO2_G37.ipynb)
+   Data: [data/co2_Emission_Africa.csv](data/co2_Emission_Africa.csv)
 
 ## Dataset
 CO2 emissions for 54 African countries, 2000-2020: **1,134 rows x 20 columns** (17 numeric, 3 non-numeric: `Country`, `Sub-Region`, `Code`).
